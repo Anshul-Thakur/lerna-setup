@@ -1,7 +1,7 @@
 {
-  "name": "one",
+  "name": "@anshulthakur/one",
   "version": "0.0.1",
   "files": [
-    "one"
+    "index.js"
   ]
 }
